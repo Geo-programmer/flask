@@ -1,4 +1,4 @@
-Flasky
+Flasky Blog
 ======
 
 
